@@ -21,7 +21,7 @@
 }
 
 .logo{
-    background-image: url("amazon.png");
+    background-image: url("./images/amazon.png");
     height: 50px;
     width: 100%;
     background-size: cover;
@@ -181,7 +181,7 @@ select{
 
 .image1{
     height: 600px;
-    background: linear-gradient(to bottom, transparent, mistyrose),  url("image1.jpg");
+    background: linear-gradient(to bottom, transparent, mistyrose),  url("./images/image1.jpg");
     background-size: cover;
 
 }
